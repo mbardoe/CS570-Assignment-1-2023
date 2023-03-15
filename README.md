@@ -39,6 +39,14 @@ Hello, Matty. How are you today?
 
 You are only to work on one file. Your work will be integrated into the whole when you commit your changes.
 
+### Goals of this assignment
+
+* Become more familiar with git and branching.
+* Become more familiar with GitHub and pull requests.
+* Become more familiar with python and objects and classes in python
+* Become more familiar with Object Oriented programming
+* Become more familiar with importing code within python
+
 
 
   

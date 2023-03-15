@@ -1,19 +1,44 @@
 # CS570-Assignment-1
 
-In this assignment you will create a simple python program. The kind of program that is a typical starting point.
-The goal will be to make a program that when run says "Hello, World". This should be the program on the `main` branch.
-Then create another branch called `dev`. On this branch it should say "Hello, Dr. Bardoe". Be sure to commit and push 
-each branch. Make good commit messages.
+In this assignment multiple students work together to create an application. The students share a GitHub repository, and 
+then submit their work using pull request. Finally, the work of the threesome is brought together in one application.
+
+Student 1:
+
+Start by making a branch named your_name/dev. Finish writing the GreetingMaker.py file. Instructions can be found 
+in that file.
+Commit your changes to your branch, and then make a pull request to main branch on GitHub. 
 
 
-Be sure to push your work back to github. 
+Student 2:
 
-## Extension Idea
+Start by making a branch named your_name/dev. Finish writing the QuestionAsker.py file. 
+Instructions can be found in that file. Commit your changes to your branch, and then make a 
+pull request to main branch on GitHub. 
 
-* Create two more branches. One called **`feature1`** and another **`feature1dev`**. Make 'feature1dev' starting from your 
-  previous `dev` branch. Make a change to that, then branch off from there to make `feature1dev`. Make a change there and then
-  use a pull request to merge that change back into feature1. Be sure to commit and push 
-  each branch. Make good commit messages.
+
+Student 3:
+
+Start by making a branch named your_name/dev. Finish writing the main.py file. Instructions can be found 
+in that file. Commit your changes to your branch, and then make a 
+pull request to main branch on GitHub. Once you have made, your changes and the other students in the group 
+have made their pull requests. Accept all pull requests and see if your program works on the main branch.
+
+
+When all three of your pieces are integrated together. You should be able to run main.py and see a program that asks
+a user for their name and then constructs some kind of greeting with that name, and displays that greeting on the screen.
+Like this:
+
+```commandline
+What is your name?
+Matt
+Hello, Matty. How are you today?
+```
+
+### Remember
+
+You are only to work on one file. Your work will be integrated into the whole when you commit your changes.
+
 
 
   
